@@ -94,7 +94,7 @@ license: CC-BY-NC-SA
   <fontSize>0.037</fontSize>
   <forceUppercase>true</forceUppercase>
   <pos>0.275 0.290</pos>
-  <size>0.540 0.390</size>
+  <size>0.940 0.390</size>
   <alignment>left</alignment>
   <horizontalMargin>0.050</horizontalMargin>
 
@@ -147,8 +147,8 @@ license: CC-BY-NC-SA
   <fontPath>./_inc/fonts/arcade-classic.ttf</fontPath>
   <fontSize>0.037</fontSize>
   <forceUppercase>true</forceUppercase>
-  <pos>0.275 0.290</pos>
-  <size>0.540 0.390</size>
+  <pos>0.120 0.290</pos>
+  <size>0.940 0.390</size>
   <alignment>left</alignment>
   <horizontalMargin>0.050</horizontalMargin>
 
