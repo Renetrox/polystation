@@ -45,6 +45,9 @@ license: CC-BY-NC-SA
     <helpsystem name="help">
       <iconColor>7d7d7d</iconColor>
       <textColor>7d7d7d</textColor>
+      <fontSize>0.0154</fontSize>
+      <fontPath>./_inc/fonts/arcade-classic.ttf</fontPath>
+      <pos>0.320 0.9375</pos>
     </helpsystem>
 
   </view>
@@ -82,6 +85,14 @@ license: CC-BY-NC-SA
       <pos>0.021 0.037</pos>         <!-- 40/1920, 40/1080 -->
       <maxSize>0.271 0.111</maxSize> <!-- 520/1920, 120/1080 -->
     </image>
+
+<helpsystem name="help">
+      <iconColor>7d7d7d</iconColor>
+      <textColor>7d7d7d</textColor>
+      <fontSize>0.0154</fontSize>
+      <fontPath>./_inc/fonts/arcade-classic.ttf</fontPath>
+      <pos>0.320 0.9375</pos>
+    </helpsystem>
 
   </view>
 
